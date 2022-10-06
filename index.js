@@ -37,6 +37,11 @@ Endpoints:
     POST /koders
 
      agreguenlo en un router de koders
+
+
+     Investigar: 
+        - middlewares en express
+        
 */
 
 
